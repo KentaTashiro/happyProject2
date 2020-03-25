@@ -67,3 +67,11 @@
 .map {
     height: 30rem;
 }
+
+#googleContact{
+  padding: 50px;
+}
+
+#contactContainer{
+  height:1200px;
+}
